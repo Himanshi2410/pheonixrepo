@@ -21,6 +21,13 @@ public int getTitle()
 {
 return title;
 }
+public void setAuthor(String Author)
+{
+this.author=author;
+public string getAuthor()
+{
+return author;
+}
 }
 }
 

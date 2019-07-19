@@ -13,5 +13,14 @@ this.bookId=bookId;
 public int getBookId(){
 return bookId;
 }
+public void setTitle(int title)
+{
+this.title=title;
+
+public int getTitle()
+{
+return title;
+}
+}
 }
 
